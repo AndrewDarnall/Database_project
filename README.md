@@ -17,7 +17,7 @@ Some of the mentioned skills are:
 - Rleational, NoSQL, Semantic and XML databases
 - Normalization, i.e. BCNF, 3NF
 
-###Used technologies:
+### Used technologies:
 
 - MySQL
 - DB2
